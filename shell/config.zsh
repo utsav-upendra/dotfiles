@@ -45,3 +45,4 @@ source "$DOTFILES_DIR/scripts/git-branch-manager.sh"
 
 # Additional aliases for convenience
 alias kp="kill_port"  # Short alias for kill_port
+alias gundo="git reset --soft HEAD~1"
